@@ -12,7 +12,7 @@ A C program to perform fundamental matrix transformations:
 
 ## 📁 File
 
-- `proj.c` — All core logic and CLI interaction.
+- `project1.c` — All core logic and CLI interaction.
 
 ---
 
