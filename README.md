@@ -29,5 +29,5 @@ A C program to perform fundamental matrix transformations:
 ## 🛠️ Installation & Usage
 
 ```bash
-gcc proj.c -o matrix_tool -lm
+gcc project1.c -o matrix_tool -lm
 ./matrix_tool
