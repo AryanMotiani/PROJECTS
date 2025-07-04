@@ -1,4 +1,4 @@
-# PROJECTS
+# PROJECT1
 # 🔢 Matrix Operations in C
 
 A C program to perform fundamental matrix transformations:
